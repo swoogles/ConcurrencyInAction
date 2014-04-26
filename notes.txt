@@ -1,0 +1,2 @@
+Example compile/run command:
+g++ -O3  -Wall -pthread -std=c++11 listing_2.6_ScopedThreadExample.cpp && ./a.out
